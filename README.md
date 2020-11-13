@@ -7,7 +7,7 @@ Stack: HTML5, CSS3, JS, Vuejs, Vuex
 
 ### Demo of the project is available here
 ```
-https://chaldeok.github.io/Pages_flight-search-results/
+http://vladchoi.beget.tech/
 ```
 
 ## Download the repository and to install dependencies run command below in the root of the project
